@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robert James London]]></title>
+        <description><![CDATA[Robert James London]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 20:48:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-frc3/t31.0-8/1096980_10151607650131270_318016399_o.jpg">]]></description>
+            <link>undefinedf75f5844-2d4e-4488-8162-ec04f6511509/index.html</link>
+            <guid isPermaLink="false">f75f5844-2d4e-4488-8162-ec04f6511509</guid>
+            <pubDate>Sat, 23 Jan 2016 20:48:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
