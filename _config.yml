@@ -1,0 +1,28 @@
+name: Robert James London
+favicon: null
+layout_spectrum: 0.6767148931976408
+typography_spectrum: 0.7458102721720934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2621294450946152
+  lightness: 0.844092879910022
+  saturation: 0.05095053091645241
+  rhythmicContrast: 0.22819725144654512
+purpose: []
